@@ -1,0 +1,5 @@
+Rules for the game.
+1. Numbers and words are encrpted
+2. Only one chance at guessing
+3. Minimum of 2 players 
+4. Highest scorers compete
